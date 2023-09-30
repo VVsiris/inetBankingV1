@@ -1,0 +1,7 @@
+15:21:40.532 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+15:21:40.650 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xf345c66d8118605a
+15:21:41.973 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Entered the username
+15:21:42.219 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Entered the password
+15:21:42.863 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Clicked on submit
+15:21:42.873 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Login test is passed
+15:21:42.901 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26

@@ -1,0 +1,10 @@
+00:04:48.185 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+00:04:48.250 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x392b112d78864b2a
+00:04:49.236 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Entered the username
+00:04:49.310 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Enterend the Password
+00:04:49.951 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Successfully entered the application
+00:04:52.462 [main] DEBUG com.inetbanking.testCases.TC_LoginTest_001 - Clicked on new Customer link
+00:04:52.626 [main] DEBUG com.inetbanking.testCases.TC_LoginTest_001 - Entered Customenr Name
+00:04:52.706 [main] DEBUG com.inetbanking.testCases.TC_LoginTest_001 - Clicked on the gender
+00:04:52.892 [main] DEBUG com.inetbanking.testCases.TC_LoginTest_001 - Entered the data of birth
+00:04:54.965 [main] DEBUG com.inetbanking.testCases.TC_LoginTest_001 - Entered the customer address
